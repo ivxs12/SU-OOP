@@ -1,0 +1,13 @@
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\BirthdayCelebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.exe
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\BirthdayCelebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.deps.json
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\BirthdayCelebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.runtimeconfig.json
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\BirthdayCelebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.runtimeconfig.dev.json
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\BirthdayCelebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.dll
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\BirthdayCelebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.pdb
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.csprojAssemblyReference.cache
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.AssemblyInfoInputs.cache
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.AssemblyInfo.cs
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.csproj.CoreCompileInputs.cache
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.dll
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.pdb
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.genruntimeconfig.cache

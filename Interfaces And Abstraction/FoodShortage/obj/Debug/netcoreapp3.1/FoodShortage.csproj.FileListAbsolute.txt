@@ -1,0 +1,13 @@
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.exe
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.deps.json
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.runtimeconfig.json
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.runtimeconfig.dev.json
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.dll
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.pdb
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.AssemblyInfoInputs.cache
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.AssemblyInfo.cs
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.csproj.CoreCompileInputs.cache
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.dll
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.pdb
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.genruntimeconfig.cache
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\ivxs2\source\repos\Reflection and Attributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.exe
+C:\Users\ivxs2\source\repos\Reflection and Attributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.deps.json
+C:\Users\ivxs2\source\repos\Reflection and Attributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.runtimeconfig.json
+C:\Users\ivxs2\source\repos\Reflection and Attributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.runtimeconfig.dev.json
+C:\Users\ivxs2\source\repos\Reflection and Attributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.dll
+C:\Users\ivxs2\source\repos\Reflection and Attributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.pdb
+C:\Users\ivxs2\source\repos\Reflection and Attributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.AssemblyInfoInputs.cache
+C:\Users\ivxs2\source\repos\Reflection and Attributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.AssemblyInfo.cs
+C:\Users\ivxs2\source\repos\Reflection and Attributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.csproj.CoreCompileInputs.cache
+C:\Users\ivxs2\source\repos\Reflection and Attributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.dll
+C:\Users\ivxs2\source\repos\Reflection and Attributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.pdb
+C:\Users\ivxs2\source\repos\Reflection and Attributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.genruntimeconfig.cache

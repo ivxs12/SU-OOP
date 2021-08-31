@@ -1,0 +1,13 @@
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\MultipleImplementation\obj\Debug\netcoreapp3.1\MultipleImplementation.csprojAssemblyReference.cache
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\MultipleImplementation\obj\Debug\netcoreapp3.1\MultipleImplementation.AssemblyInfoInputs.cache
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\MultipleImplementation\obj\Debug\netcoreapp3.1\MultipleImplementation.AssemblyInfo.cs
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\MultipleImplementation\obj\Debug\netcoreapp3.1\MultipleImplementation.csproj.CoreCompileInputs.cache
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\MultipleImplementation\bin\Debug\netcoreapp3.1\PersonInfo.exe
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\MultipleImplementation\bin\Debug\netcoreapp3.1\PersonInfo.deps.json
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\MultipleImplementation\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.json
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\MultipleImplementation\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.dev.json
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\MultipleImplementation\bin\Debug\netcoreapp3.1\PersonInfo.dll
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\MultipleImplementation\bin\Debug\netcoreapp3.1\PersonInfo.pdb
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\MultipleImplementation\obj\Debug\netcoreapp3.1\PersonInfo.dll
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\MultipleImplementation\obj\Debug\netcoreapp3.1\PersonInfo.pdb
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\MultipleImplementation\obj\Debug\netcoreapp3.1\MultipleImplementation.genruntimeconfig.cache

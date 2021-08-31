@@ -1,0 +1,12 @@
+C:\Users\ivxs2\source\repos\Reflection and Attributes\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.exe
+C:\Users\ivxs2\source\repos\Reflection and Attributes\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.deps.json
+C:\Users\ivxs2\source\repos\Reflection and Attributes\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.runtimeconfig.json
+C:\Users\ivxs2\source\repos\Reflection and Attributes\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.runtimeconfig.dev.json
+C:\Users\ivxs2\source\repos\Reflection and Attributes\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.dll
+C:\Users\ivxs2\source\repos\Reflection and Attributes\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.pdb
+C:\Users\ivxs2\source\repos\Reflection and Attributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.AssemblyInfoInputs.cache
+C:\Users\ivxs2\source\repos\Reflection and Attributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.AssemblyInfo.cs
+C:\Users\ivxs2\source\repos\Reflection and Attributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\ivxs2\source\repos\Reflection and Attributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.dll
+C:\Users\ivxs2\source\repos\Reflection and Attributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.pdb
+C:\Users\ivxs2\source\repos\Reflection and Attributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ivxs2\source\repos\Space Station\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.exe
+C:\Users\ivxs2\source\repos\Space Station\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.deps.json
+C:\Users\ivxs2\source\repos\Space Station\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.runtimeconfig.json
+C:\Users\ivxs2\source\repos\Space Station\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.runtimeconfig.dev.json
+C:\Users\ivxs2\source\repos\Space Station\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.dll
+C:\Users\ivxs2\source\repos\Space Station\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.pdb
+C:\Users\ivxs2\source\repos\Space Station\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.csprojAssemblyReference.cache
+C:\Users\ivxs2\source\repos\Space Station\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.AssemblyInfoInputs.cache
+C:\Users\ivxs2\source\repos\Space Station\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.AssemblyInfo.cs
+C:\Users\ivxs2\source\repos\Space Station\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.csproj.CoreCompileInputs.cache
+C:\Users\ivxs2\source\repos\Space Station\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.dll
+C:\Users\ivxs2\source\repos\Space Station\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.pdb
+C:\Users\ivxs2\source\repos\Space Station\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.genruntimeconfig.cache

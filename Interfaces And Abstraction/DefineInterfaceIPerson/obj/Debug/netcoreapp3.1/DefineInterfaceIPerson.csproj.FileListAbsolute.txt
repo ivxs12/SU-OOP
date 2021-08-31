@@ -1,0 +1,13 @@
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\DefineInterfaceIPerson\bin\Debug\netcoreapp3.1\PersonInfo.exe
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\DefineInterfaceIPerson\bin\Debug\netcoreapp3.1\PersonInfo.deps.json
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\DefineInterfaceIPerson\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.json
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\DefineInterfaceIPerson\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.dev.json
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\DefineInterfaceIPerson\bin\Debug\netcoreapp3.1\PersonInfo.dll
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\DefineInterfaceIPerson\bin\Debug\netcoreapp3.1\PersonInfo.pdb
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\DefineInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineInterfaceIPerson.csprojAssemblyReference.cache
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\DefineInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineInterfaceIPerson.AssemblyInfoInputs.cache
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\DefineInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineInterfaceIPerson.AssemblyInfo.cs
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\DefineInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineInterfaceIPerson.csproj.CoreCompileInputs.cache
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\DefineInterfaceIPerson\obj\Debug\netcoreapp3.1\PersonInfo.dll
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\DefineInterfaceIPerson\obj\Debug\netcoreapp3.1\PersonInfo.pdb
+C:\Users\ivxs2\source\repos\DefineInterfaceIPerson\DefineInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineInterfaceIPerson.genruntimeconfig.cache
